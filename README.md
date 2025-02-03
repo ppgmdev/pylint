@@ -1,4 +1,5 @@
 # Actividad 4.2
+## Jose Antonio Gomez Mora
 ###
 ```bash
 python3 -m venv .venv
